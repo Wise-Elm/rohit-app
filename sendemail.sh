@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Sender address.
-sender="rohit.dhume@gmail.com"
+sender="replace with senders email address"
 
 # Email addresses.
 addresses=$(cat emaillist.txt)
